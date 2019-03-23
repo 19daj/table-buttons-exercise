@@ -1,0 +1,21 @@
+table, tr, td {
+    border: 1px solid rgb(219, 17, 112);
+    background-color: rgb(238, 195, 216);
+}
+
+button {
+    margin: 16px 9px 0px 0px;
+    border:0px;
+    background-color: pink;
+    color:rgb(238, 22, 58);
+    font-weight: bold;
+}
+
+div {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
